@@ -1,1 +1,1 @@
-# Discount-Clculator-with-Python
+# Discount-Calculator-with-Python
